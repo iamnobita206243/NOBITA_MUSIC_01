@@ -28,14 +28,14 @@ start_txt = """**
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("•ᴀᴅᴅ ᴍᴇ•", url=f"https://t.me/radha_music_bot?startgroup=true")
+          InlineKeyboardButton("•ᴀᴅᴅ ᴍᴇ•", url=f"https://t.me/NOBITA_MUSIC_ROBOT?startgroup=true")
         ],
         [
-          InlineKeyboardButton("•sᴜᴘᴘᴏʀᴛ•", url="https://t.me/+wPjAlUcObehiZDM1"),
+          InlineKeyboardButton("•sᴜᴘᴘᴏʀᴛ•", url="https://t.me/+DRlOUMim-SdjOWJl"),
           InlineKeyboardButton("•ᴏᴡɴᴇʀ•", url="https://t.me/ll_NOBITA_DEFAULTERS_ll"),
           ],
                [
-                InlineKeyboardButton("•ᴜᴘᴅᴀᴛᴇs•", url=""),
+                InlineKeyboardButton("•ᴜᴘᴅᴀᴛᴇs•", url="https://t.me/NOB1TA_SUPPORT"),
 
 ],
 [
@@ -51,11 +51,11 @@ InlineKeyboardButton("˹ 𝐍ᴏʙɪᴛᴀ ꭙ 𝐒ᴘᴀᴍ ˼", url=f"https://
 InlineKeyboardButton("Ҩ፝֟፝ɴ┋ꕶʜɪᴢ֟፝ᴜᴋᴀ ♡", url=f"https://t.me/NOBITA_CHATBOT"),
 ],
 [
-              InlineKeyboardButton("•ᴅᴇғᴀᴜʟᴛᴇʀs ɢᴄ•", url=f"https://t.me/+wPjAlUcObehiZDM1"),
-              InlineKeyboardButton("˹ɴᴏʙɪᴛᴀ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/NOBITA_MUSIC_SUPPORT"),
+              InlineKeyboardButton("•ᴅᴇғᴀᴜʟᴛᴇʀs ɢᴄ•", url=f"https://t.me/+DRlOUMim-SdjOWJl"),
+              InlineKeyboardButton("˹ɴᴏʙɪᴛᴀ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/NOB1TA_SUPPORT"),
               ],
               [
-              InlineKeyboardButton("ᴀʟʟ ʙᴏᴛ", url=f"https://t.me/NOBITA_MUSIC_SUPPORT/13"),
+              InlineKeyboardButton("ᴀʟʟ ʙᴏᴛ", url=f"https://t.me/NOB1TA_SUPPORT/10"),
         ]]
     
     reply_markup = InlineKeyboardMarkup(buttons)
@@ -84,7 +84,7 @@ async def repo(_, message):
             list_of_users += f"{count}. [{user['login']}]({user['html_url']})\n"
             count += 1
 
-        text = f"""[•ʙᴏᴛ-ᴏᴡɴᴇʀ•](https://t.me/ll_NOBITA_DEFAULTERS_ll) | [•ᴜᴘᴅᴀᴛᴇs•](https://t.me/NOBITA_MUSIC_SUPPORT)
+        text = f"""[•ʙᴏᴛ-ᴏᴡɴᴇʀ•](https://t.me/ll_NOBITA_DEFAULTERS_ll) | [•ᴜᴘᴅᴀᴛᴇs•](https://t.me/NOB1TA_SUPPORT)
 | 𝖢𝖮𝖭𝖳𝖱𝖨𝖡𝖴𝖳𝖮𝖱𝖲 |
 ----------------
 {list_of_users}"""
