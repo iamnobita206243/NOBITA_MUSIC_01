@@ -34,9 +34,9 @@ Oғғɪᴄɪᴀʟ  Bᴏᴛs.:-
 ╰⊚𝐀ʟɪᴠᴇ✅
 
 
-Oғғɪᴄɪᴀʟ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ - @NOBITA_MUSIC_SUPPORT
+Oғғɪᴄɪᴀʟ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ - @NOB1TA_SUPPORT
 
-Sᴜᴘᴘᴏʀᴛ Gʀᴏᴜᴘ:- @OG_DEFAULTERS_2016."""
+Oᴡɴᴇʀ - @ll_NOBITA_DEFAULTERS_ll."""
 
 BUTTONS = InlineKeyboardMarkup(
     [
