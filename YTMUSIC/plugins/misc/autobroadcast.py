@@ -33,6 +33,12 @@ Oғғɪᴄɪᴀʟ  Bᴏᴛs.:-
 ╭⎋@NOBITA_MUSIC_TG_BOT
 ╰⊚𝐀ʟɪᴠᴇ✅
 
+╭⎋@FearMusicBot
+╰⊚𝐀ʟɪᴠᴇ✅
+
+╭⎋@VanshikaMusicRobot
+╰⊚𝐀ʟɪᴠᴇ✅
+
 
 Oғғɪᴄɪᴀʟ Uᴘᴅᴀᴛᴇs Cʜᴀɴɴᴇʟ - @NOB1TA_SUPPORT
 
