@@ -36,6 +36,9 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # Get it from http://dashboard.heroku.com/account
 HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ________________________________________________________________________________#
+BASE_API_URL = "https://zyro.zyronetworks.shop"
+BASE_API_KEY = "N9F81n1ZDxiKo4gsJsiQXsv7m5U7IPx2"
+
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
     "https://github.com/iamnobita206243/NOBITA_MUSIC_01",
@@ -100,12 +103,12 @@ confirmer = {}
 
 START_IMG_URL = getenv(
     "START_IMG_URL",
-    "https://files.catbox.moe/gcauas.jpg",
+    "https://files.catbox.moe/0k1bcv.jpg",
 )
 
 PING_IMG_URL = getenv(
     "PING_IMG_URL",
-    "https://files.catbox.moe/gcauas.jpg",
+    "https://files.catbox.moe/tcz7s6.jpg",
 )
 
 PLAYLIST_IMG_URL = getenv(
