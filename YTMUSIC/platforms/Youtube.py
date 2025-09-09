@@ -25,7 +25,7 @@ from YTMUSIC.utils.database import is_on_off
 from YTMUSIC.utils.formatters import time_to_seconds
 
 BASE_API_URL = "http://zyro.zyronetworks.shop"
-BASE_API_KEY = ""
+BASE_API_KEY = "IcDU1vq1WSMo5XfpatPmsMNanB5eRkM1"
 
 DOWNLOAD_DIR = Path("downloads")
 DOWNLOAD_DIR.mkdir(exist_ok=True)
