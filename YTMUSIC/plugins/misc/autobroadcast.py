@@ -33,10 +33,13 @@ Oғғɪᴄɪᴀʟ  Bᴏᴛs.:-
 ╭⎋@NOBITA_MUSIC_TG_BOT
 ╰⊚𝐀ʟɪᴠᴇ✅
 
-╭⎋@FearMusicBot
+╭⎋@VanshikaMusicRobot
 ╰⊚𝐀ʟɪᴠᴇ✅
 
-╭⎋@VanshikaMusicRobot
+╭⎋@RavanMusicBot
+╰⊚𝐀ʟɪᴠᴇ✅
+
+╭⎋@EliteMusicRobot
 ╰⊚𝐀ʟɪᴠᴇ✅
 
 
