@@ -124,7 +124,7 @@ GLOBAL_IMG_URL = getenv(
 
 STATS_IMG_URL = getenv(
     "STATS_IMG_URL",
-    "https://telegra.ph/file/4dd9e2c231eaf7c290404.jpg",
+    "https://files.catbox.moe/tcz7s6.jpg",
 )
 
 TELEGRAM_AUDIO_URL = getenv(
