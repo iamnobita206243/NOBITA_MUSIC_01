@@ -31,7 +31,7 @@ async def start(_, msg):
           InlineKeyboardButton("•ᴀᴅᴅ ᴍᴇ•", url=f"https://t.me/NOBITA_MUSIC_ROBOT?startgroup=true")
         ],
         [
-          InlineKeyboardButton("•sᴜᴘᴘᴏʀᴛ•", url="https://t.me/+DRlOUMim-SdjOWJl"),
+          InlineKeyboardButton("•sᴜᴘᴘᴏʀᴛ•", url="https://t.me/+ClpXmI00B7UxYjc1"),
           InlineKeyboardButton("•ᴏᴡɴᴇʀ•", url="https://t.me/ll_NOBITA_DEFAULTERS_ll"),
           ],
                [
@@ -43,15 +43,15 @@ async def start(_, msg):
               InlineKeyboardButton("︎˹ɴᴏʙɪᴛᴀ ꭙ ᴍᴜꜱɪᴄ˼ 2 ♪", url=f"https://t.me/NOBITA_MUSIC_TG_BOT"),
               ],
               [
-              InlineKeyboardButton("˹ 𝐍ᴏʙɪᴛᴀ ꭙ 𝐂ᴀᴛᴄʜᴇʀ ˼", url=f"https://t.me/NobitaGrabberBot"),
-InlineKeyboardButton("˹ 𝐍ᴏʙɪᴛᴀ ꭙ 𝐌ᴏᴠɪᴇs ˼", url=f"https://t.me/NOBITA_MOVIES_BOT"),
+              InlineKeyboardButton("˹ 𝐕ᴀɴsʜɪᴋᴀ ꭙ 𝐌ᴜsɪᴄ ˼ ♪ [ ", url=f"https://t.me/VanshikaMusicRobot"),
+InlineKeyboardButton("˹ ᰻⃪᱂𝛂፝֟𝛎𝛂ꪀ ꭙ 𐌼⃪𝛖𝛅𝛊ᴄ ˼", url=f"https://t.me/RavanMusicBot"),
 ],
 [
-InlineKeyboardButton("˹ 𝐍ᴏʙɪᴛᴀ ꭙ 𝐒ᴘᴀᴍ ˼", url=f"https://t.me/NOBITA_1ST_SPAMM_BOT"),
-InlineKeyboardButton("Ҩ፝֟፝ɴ┋ꕶʜɪᴢ֟፝ᴜᴋᴀ ♡", url=f"https://t.me/NOBITA_CHATBOT"),
+InlineKeyboardButton("˹ 𝐄ʟɪᴛᴇ ꭙ 𝐌ᴜsɪᴄ ˼", url=f"https://t.me/EliteMusicRobot"),
+InlineKeyboardButton("˹ 𝐍ᴏʙɪᴛᴀ ꭙ 𝐂ᴀᴛᴄʜᴇʀ ˼", url=f"https://t.me/NobitaGrabberBot"),
 ],
 [
-              InlineKeyboardButton("•ᴅᴇғᴀᴜʟᴛᴇʀs ɢᴄ•", url=f"https://t.me/+DRlOUMim-SdjOWJl"),
+              InlineKeyboardButton("•ᴅᴇғᴀᴜʟᴛᴇʀs ɢᴄ•", url=f"https://t.me/+ClpXmI00B7UxYjc1"),
               InlineKeyboardButton("˹ɴᴏʙɪᴛᴀ ꭙ ꜱᴜᴘᴘᴏʀᴛ˼", url=f"https://t.me/NOB1TA_SUPPORT"),
               ],
               [
