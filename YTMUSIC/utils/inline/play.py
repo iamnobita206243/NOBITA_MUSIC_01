@@ -80,10 +80,6 @@ def stream_markup_timer(_, videoid, chat_id, played, dur):
         url="https://t.me/II_UTKARSH_DEFAULTERS_II"
     ),
     InlineKeyboardButton(
-        text="Coder ❤️‍🔥", 
-        url="https://t.me/ll_NOBITA_DEFAULTERS_ll"
-    ),
-    InlineKeyboardButton(
         text="Support ❤️‍🔥", 
         url="https://t.me/+ClpXmI00B7UxYjc1"
     ),
